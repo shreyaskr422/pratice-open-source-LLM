@@ -1,1 +1,1 @@
-Summarization of Electronic Health Record of Patient with Langchain, LangGraph and Llama3 model (Open Source LLM)Just for fun there is no owner of this repo this is just pratice area and pesonal notes to have to continue learning from online or should we say Internet 
+**Summarization of Electronic Health Record of Patient with Langchain, LangGraph and Llama3 model (Open Source LLM)Just for fun this is just pratice area and pesonal notes to have to continue learning from Internet**
